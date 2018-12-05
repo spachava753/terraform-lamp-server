@@ -25,3 +25,5 @@ override.tf.json
 #
 # !example_override.tf
 
+# Ignore the .tfvars file for security reasons
+terraform.tfvars
